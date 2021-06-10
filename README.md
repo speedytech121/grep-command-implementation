@@ -12,6 +12,10 @@ step 3: do coding in this file
 
 
 step 4: save this file
+        
+        CTRL + O
+        
+        CTRL + X
 
 step 5: make executable file (ex: gcc -o mygrep mygrep.c )
         here -o for output
