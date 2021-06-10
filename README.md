@@ -8,6 +8,8 @@ step 1: create a file ( ex: touch mygrep.c )
 step 2: open this file (ex: nano mygrep.c )
 
 step 3: do coding in this file
+![Capture](https://user-images.githubusercontent.com/79707576/121464385-6c76b980-c9d1-11eb-9db0-8a1634b75c2d.PNG)
+
 
 step 4: save this file
 
