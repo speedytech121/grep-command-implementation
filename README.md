@@ -12,20 +12,16 @@ step 3: do coding in this file
 step 4: save this file
 
 step 5: make executable file (ex: gcc -o mygrep mygrep.c )
-
         here -o for output
-        
         mygrep is the executable file name
         
        
 step 6: execute the executable file in shell ( ex: ./mygrep 'pattern' 'file name in which you want to search this pattern' )
-
         ( ex:./mygrep deepak@gmail.com abc.txt )
-        
         ![image](https://user-images.githubusercontent.com/79707576/121463364-89aa8880-c9cf-11eb-9c27-928bbfda7ad3.PNG)
 
 
 
 
-NOTE: YOU CAN ADD THIS EXECUTABLE FILE IN YOUR PATH, BUT PRETTY SURE IT SHOULD NOT BE TEMPORARY PATH ADDING. AFTER ADDING PATH YOU DONT NEED TO TYPE './' BEFORE EXECUTABLE FILE NAME AND YOU CAN RUN FROM ANY FOLDER LOCATION.SOMETIMES IT MAY BE SHOW ACCESS DENIED SO YOU NEED TO SPECIFY PERMISSIONS. AND FOR THAT YOU CAN DO GOOGLE 😄
+# note: you can add this executable file in your path, but pretty sure it should not be temporary path adding. after adding path you dont need to type './' before executable file name and you can run from any folder location.sometimes it may be show access denied so you need to specify permissions. and for that you can do google 😄
       
