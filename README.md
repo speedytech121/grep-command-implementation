@@ -4,14 +4,24 @@ By using grep command you can search any pattern in shell. In my project grep is
 
 # execution:
 step 1: create a file ( ex: touch mygrep.c )
+
 step 2: open this file (ex: nano mygrep.c )
+
 step 3: do coding in this file
+
 step 4: save this file
+
 step 5: make executable file (ex: gcc -o mygrep mygrep.c )
+
         here -o for output
+        
         mygrep is the executable file name
+        
+       
 step 6: execute the executable file in shell ( ex: ./mygrep 'pattern' 'file name in which you want to search this pattern' )
+
         ( ex:./mygrep deepak@gmail.com abc.txt )
+        
         ![image](https://user-images.githubusercontent.com/79707576/121463364-89aa8880-c9cf-11eb-9c27-928bbfda7ad3.PNG)
 
 
