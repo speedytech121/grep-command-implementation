@@ -18,7 +18,8 @@ step 5: make executable file (ex: gcc -o mygrep mygrep.c )
        
 step 6: execute the executable file in shell ( ex: ./mygrep 'pattern' 'file name in which you want to search this pattern' )
         ( ex:./mygrep deepak@gmail.com abc.txt )
-        ![image](https://user-images.githubusercontent.com/79707576/121463364-89aa8880-c9cf-11eb-9c27-928bbfda7ad3.PNG)
+        
+   ![image](https://user-images.githubusercontent.com/79707576/121463364-89aa8880-c9cf-11eb-9c27-928bbfda7ad3.PNG)
 
 
 
